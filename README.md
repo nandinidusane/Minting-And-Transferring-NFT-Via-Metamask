@@ -11,3 +11,6 @@ With the minted NFT in MetaMask, you can now transfer it to another account.
 Use MetaMask to complete the transfer process.
 
 Since it is not hosted yet, I have attached screenshots of the working process for reference.
+Account 1 contains NFT #3 and #4.
+After Transfer From Account 1 To Account 2 Contain NFT #3
+
