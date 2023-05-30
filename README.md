@@ -9,3 +9,5 @@ After entering the Transaction Hash, you will receive an Interacted With (To) ad
 Take this address and enter it in the MetaMask NFT section along with the token ID that was minted successfully.
 With the minted NFT in MetaMask, you can now transfer it to another account.
 Use MetaMask to complete the transfer process.
+
+Since it is not hosted yet, I have attached screenshots of the working process for reference.
